@@ -1,0 +1,72 @@
+- 👋 Hi, I’m @354198zcl
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+354198zcl/354198zcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+#include <stdio.h>
+/*struct Book
+{
+    char name[20];
+    short price;
+};
+  int main()
+  {
+      struct Book b1={"c语言程序设计",55};
+      printf("书名：%s\n",b1.name);
+      printf("价格：%d元\n",b1.price);
+      return 0;
+  }
+*int main ()
+{
+    int a=10;
+    int* p=&a;
+    printf("%p",p);
+    return 0;
+}
+
+//*-解引用操作符，间接操作符
+
+int main()
+{
+    int ch=0;
+    while((ch=getchar())!=EOF)
+    {
+        putchar(ch);
+    }
+}*/
+/*  int main()                           //n的阶乘：*int main()
+{
+    int i,n,m=1;
+    int sum=0;
+    for(n=1;n<=10;i++)
+   {
+       for(i=n;i>0;i--)
+    {
+        m=m*i;
+    }
+      sum=sum+m;
+
+    }
+
+    printf("%d",sum);
+}
+*/                            //打印10个hehe
+ /*   int main()
+    {   int i=0,j=0;
+        for(i=0;i<10;i++)
+         {
+             for(;j<10;j++)
+            {
+            printf("hehe\n");
+            }
+
+         }
+        return 0;
+    }
+    break是终止循环，不再循环；
+    continue是跳过本次循环，忽略之后的东西，但是可以再循环；
